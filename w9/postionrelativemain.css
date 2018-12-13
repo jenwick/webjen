@@ -1,0 +1,18 @@
+* {
+    border: 2px solid orangered;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: navy;
+    color: #fff;
+}
+
+#one {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    /* formatting */
+    background-color: violet;
+}
