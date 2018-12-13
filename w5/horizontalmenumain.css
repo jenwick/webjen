@@ -1,0 +1,27 @@
+* {
+    border: 1px dashed gray;
+}
+
+html {
+    font-size: 5rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    /*border: 4px yellow;*/
+    border-radius: 50px;
+    display: inline-block;
+}
+a {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 60px;
+    display: inline-block;
+    text-decoration: none;
+}
+li:hover {
+    background-color: pink;
+}
