@@ -1,6 +1,16 @@
 h1 {
     font-family: serif;
+    font-size: 70rem;
+    text-transform: uppercase;
+    text-shadow: 7px, 7x, 7px, yellow;
 }
 h2 {
     font-family: sans-serif;
+    font-style: italic;
+}
+h3 {
+    font-family: 'Inconsolata', monospace;
+    font-size: 40rem;
+    font-weight: 700;
+    text-transform: uppercase;
 }
